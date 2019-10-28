@@ -1,5 +1,5 @@
 # Trivia Game
-## Multiple Choice Question Game
+## Multiple Choice Questions Game
 A homework assignment to build a Trivia Game using JavaScript for the logic and JQuery for HTML attribute and element manipulation, and page layout with CSS.
 
 ## Homework Assignment Instruction
