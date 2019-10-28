@@ -1,0 +1,8 @@
+{
+   "editor.snippetSuggestions": "top",
+   "editor.quickSuggestionsDelay": 30,
+   "editor.formatOnPaste": true,
+   "editor.formatOnSave": true,
+   "editor.tabSize": 3,
+   "editor.wordWrap": "on"
+}

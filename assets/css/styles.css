@@ -1,0 +1,58 @@
+* {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+html {
+   font-size: 62.5%;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-size: 1.6rem;
+   line-height: 1.8;
+   letter-spacing: 1px;
+   color: #ffffff;
+   background-image: url("../images/download.jfif");
+   background-size: cover;
+   background-position: top;
+   text-shadow: 0.5rem 1rem 2rem rgba(0, 0, 0, 0.5);
+}
+
+.container {
+   width: 80%;
+   margin: 0 auto;
+   background-color: #eb1d5b;
+   box-shadow: 0 1rem 2rem black;
+}
+
+h1 {
+   font-size: 3rem;
+   color: #1da0eb;
+   margin: 2rem auto;
+   text-transform: uppercase;
+   letter-spacing: 3px;
+}
+
+.game-area {
+   width: 70%;
+   margin: 2rem auto;
+   padding: 2rem 3rem;
+   
+}
+
+.answer {
+   margin-bottom: 2rem;
+}
+
+.btn {
+   background-color: #1da0eb;
+   padding: 1rem 2rem;
+   font-size: 1.8rem;
+   text-align: center;
+   color: #ffffff;
+   border-radius: 10px;
+   border: none;
+}
+
