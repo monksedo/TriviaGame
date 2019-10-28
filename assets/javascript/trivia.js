@@ -9,52 +9,52 @@ var unanswered = 0;
 // Question and answer array
 var questions = [{
    question: "1. What did Susan B. Anthony do?",
-   answerList: ["Make the first flag of the United State",
-      "founded the Red Cross",
-      "the first woman elected in the House of Represetatives",
-      "fought for women's rights"],
+   answerList: [" make the first flag of the United State",
+      " founded the Red Cross",
+      " the first woman elected in the House of Represetatives",
+      " fought for women's rights"],
    answer: 3
 }, {
    question: "2. What is one reason colonists came to America?",
-   answerList: ["freedom",
-      "for the experience traveling across the ocean",
-      "to join a civic group",
-      "none of the answer"],
+   answerList: [" freedom",
+      " for the experience traveling across the ocean",
+      " to join a civic group",
+      " none of the answer"],
    answer: 0
 }, {
    question: "3. What does the President's Cabinet do?",
-   answerList: ["commands the U.S. Armed Forces",
-      "makes laws",
-      "advices the President",
-      "all of these answer"],
+   answerList: [" commands the U.S. Armed Forces",
+      " makes laws",
+      " advices the President",
+      " all of these answer"],
    answer: 2
 }, {
    question: "4. What do we show loyalty to when we say the Pledge of Allegiance?",
-   answerList: ["the President",
-      "Congress",
-      "the state where you live",
-      "the United States"],
+   answerList: [" the President",
+      " Congress",
+      " the state where you live",
+      " the United States"],
    answer: 3
 }, {
    question: "5. What are the two major political parties in the United States?",
-   answerList: ["Reform and Green",
-      "Democratic-Republican and Whigs",
-      "Aerican and Bull-Moose",
-      "Democratic and Republican"],
+   answerList: [" Reform and Green",
+      " Democratic-Republican and Whigs",
+      " American and Bull-Moose",
+      " Democratic and Republican"],
    answer: 3
 }, {
    question: "6. Name one war fought by the United States in the 1900s",
-   answerList: ["War of 1812",
-      "Revolutionary War",
-      "Civil War",
-      "World War I"],
+   answerList: [" War of 1812",
+      " Revolutionary War",
+      " Civil War",
+      " World War I"],
    answer: 3
 }, {
    question: "7.What is an amendment?",
-   answerList: ["An introduction",
-      "a change (to the Constitution)",
-      "the beginning of the Declaration of Independence",
-      "the Preamble to the Constitution"],
+   answerList: [" An introduction",
+      " a change (to the Constitution)",
+      " the beginning of the Declaration of Independence",
+      " the Preamble to the Constitution"],
    answer: 1
 }];
 
@@ -67,7 +67,7 @@ $("#start").on("click", function () {
    $("#game-rule").hide();
 
    // Display quiz timer
-   $("#timer").html("<h3>Time Remaining: 60 seconds</h3>" + "<br>");
+   $("#timer").html("<h3>Time Remaining: 60 seconds</h3><br>");
 
    // Start timer countdown
    startQuiz();
