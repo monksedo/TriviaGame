@@ -27,7 +27,7 @@ HTML, CSS, JavaScript, and JQuery
 
 ## JavaScrip Code Snippets
 ### Example 1
-![JavaScript 1](assets/images/1trviajs.png)
+![JavaScript 1](assets/images/1triviajs.png)
 ### Example 2
 ![JavaScript 2](assets/images/2triviajs.png)
 
