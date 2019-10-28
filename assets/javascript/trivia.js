@@ -63,6 +63,9 @@ $("#start").on("click", function () {
    // Hide Start button
    $(this).hide();
 
+   // Hide Game Rules
+   $("#game-rule").hide();
+
    // Display quiz timer
    $("#timer").html("<h3>Time Remaining: 60 seconds</h3>" + "<br>");
 
@@ -201,7 +204,7 @@ function stopQuiz() {
 
 // Display results
 function displayResults() {
-
+   $("#game-rule").hide();
    $("#timer").hide();
    $("#question1").hide();
    $("#answer1").hide();

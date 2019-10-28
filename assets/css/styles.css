@@ -23,7 +23,7 @@ body {
 .container {
    width: 80%;
    margin: 0 auto;
-   background-color: #eb1d5bb4;
+   background-color: #eb1d5bf3;
    box-shadow: 0 1rem 2rem black;
 }
 
@@ -48,6 +48,7 @@ h1 {
 
 .btn {
    background-color: #1da0eb;
+   margin: 1rem auto;
    padding: 1rem 2rem;
    font-size: 1.8rem;
    text-align: center;
