@@ -8,7 +8,7 @@ A homework assignment to build a Trivia Game using JavaScript for the logic and 
 HTML, CSS, JavaScript, and JQuery
 
 ## Version Control
-[Git & GitHub](https://github.com/monksedo/TriviaGame)
+[Git & GitHub](https://github.com/tvn9/TriviaGame)
 
 ## Game Rules
 ### Game Rules & How to Play?
@@ -20,7 +20,7 @@ HTML, CSS, JavaScript, and JQuery
 6. Refresh the browser to restart the game
 
 ## Start The Game
-[Click here to start](https://monksedo.github.io/TriviaGame/)
+[Click here to start](https://tvn9.github.io/TriviaGame/)
 
 ## CSS Code Snippets
 ![Page Layout](assets/images/1triviacss.png)
